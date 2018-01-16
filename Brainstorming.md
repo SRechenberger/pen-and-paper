@@ -52,4 +52,6 @@ Anyway, there should be requirements of basic stats to learn a spell,
 to prevent learning an overpowered spell at low level.
 
 ### *Uses per Day* sucks
-Have a *Mana* system.
+Have a *Mana* system. 
+Also, the simulation of exhaustion by using a spell or skill is much more reasonable,
+than just limiting the use of it to a arbitrary number per Day or Rest.
