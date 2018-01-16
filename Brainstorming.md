@@ -10,6 +10,9 @@ E.g.: there is no rational reason, why a warrior should be unable to learn at le
 or a magician should be unable to use a sword effectively (see Gandalf in J.R.R. Tolkiens *The Lord of the Rings*).
 Although *D&D* supports the widening of classes, this only proves a class system unnecessary.
 
+Interestingly, cutting out a priori classes does not remove them in RP;
+one can claim himself to be a Paladin by learning stuff, paladins do, and by acting like one.
+
 ### Focus on Basic Character Values
 The should be as few *idirect* characters stats as possible;
 i.e., no additional values, which are calculated from the characters base values,
