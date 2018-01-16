@@ -31,6 +31,13 @@ Instead of leveling a character as in any *D&D* like system,
 not the character, but the character values itself could gain EP and levels,
 as it is done in *The Elder Scrolls: Oblivion*.
 Thus, a successful roll on a value could always yield some EP.
+For combined check rolls, the amount of EP may be spread evenly among the involved character stats.
+
+### Prefered Basic Values
+Instead of having classes, one may choose a set of basic values,
+which gain more experience.
+E.g.: if someone wants to play a fighter character, he may choose strengt as a *prefered character value*
+and may thus gain 1.5 or 2 times the experience in this base value.
 
 ### Combined Check Rolls
 Check rolls could be combined by adding all values together and rolling on the average of them:
