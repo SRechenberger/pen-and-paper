@@ -65,3 +65,7 @@ to prevent learning an overpowered spell at low level.
 Have a *Mana* system. 
 Also, the simulation of exhaustion by using a spell or skill is much more reasonable,
 than just limiting the use of it to a arbitrary number per Day or Rest.
+
+## Problems
+### Competetive Rolls/Saving Rolls
+How could saving rolls be handled? Could the bonus, that the *attacker* has, be used as a malus to the *defender*?
