@@ -66,6 +66,10 @@ Have a *Mana* system.
 Also, the simulation of exhaustion by using a spell or skill is much more reasonable,
 than just limiting the use of it to a arbitrary number per Day or Rest.
 
+### Action Point System
+Every action in combat costs *action points*.
+Moves may cost action points depending on the characters speed, however it is represented.
+
 ## Problems
 ### Competetive Rolls/Saving Rolls
 How could saving rolls be handled? Could the bonus, that the *attacker* has, be used as a malus to the *defender*?
