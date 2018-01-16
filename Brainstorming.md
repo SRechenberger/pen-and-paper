@@ -43,3 +43,13 @@ finally converging to a fixed value.
 Given a basic roll success propability of 1/10, thus succeeding on a roll of one or two without any boni,
 this value could be set to 18, and be floored, thus having a maximum success propability of 19/20.
 This also implies a cap on the maximum useful value in any basic stat.
+
+### Concerning Spells and Skills
+Due to the classlessness, spells and skills could be leared visiting trainers,
+paying them money according to the caracters basic values.
+Also, as in *Diablo*, books could be aquired to teach the spell to the owner.
+Anyway, there should be requirements of basic stats to learn a spell,
+to prevent learning an overpowered spell at low level.
+
+### *Uses per Day* sucks
+Have a *Mana* system.
