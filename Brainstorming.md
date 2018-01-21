@@ -20,6 +20,52 @@ such as *attack power* which may be calculated from *streng* or *agility*.
 
 This removes the necessity of propagating changes through the character sheet.
 
+### Possible Basic Character Values
+#### Body
+##### Strength
+Plain muscle strength; affects any acts of force.
+
+##### Constitution
+Affects the characters health, as well as how long and how often the character can maintain any act of body.
+
+##### Toughness
+Affects the effect of acts of force against the character.
+
+##### Dexterity
+Affects the characters gross motor skills.
+
+##### Reflex
+Affects, how fast the character cat react to its environment.
+
+##### Accuracy
+Affects the characters fine motor skills.
+
+##### Swiftness
+Affects the characters movement speed.
+
+#### Mind
+##### Reason
+Affects the characters ability of logical reasoning.
+
+##### Willpower
+Affects the characters mental health, as well as how long and how often the character can maintain any act of mind.
+
+##### Resolve
+Affects the effect of mental force against the character.
+
+##### Sharpness
+Affects, how fast a character can think.
+
+##### Wisdom
+Represents the factual knowledge a character has aquired;
+i.e., lore, history, scientific facts,....
+
+##### Charisma
+Affects the effect of the character on other characters.
+
+##### Eloquence
+Affects, how well the character can interact with other characters.
+
 ### More Basic Character Values
 To prevent the loss of depth, there could be more basic character values.
 This could be achieved by *splitting* some values such as *Body* into
