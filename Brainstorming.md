@@ -78,26 +78,28 @@ Given a basic roll success propability of 1/10, thus succeeding on a roll of one
 this value could be set to 18, and be floored, thus having a maximum success propability of 19/20.
 This also implies a cap on the maximum useful value in any basic stat.
 
-| Attribute Value | Roll Bonus |
-|---|---|
-|0|0|
-|1 - 2|1|
-|3 - 4|2|
-|5 - 7|3|
-|8 - 10|4|
-|11 - 13|5|
-|14 - 16|6|
-|17 - 19|7|
-|20 - 23|8|
-|24 - 27|9|
-|28 - 32|10|
-|33 - 37|11|
-|38 - 44|12|
-|45 - 51|13|
-|52 - 61|14|
-|62 - 75|15|
-|76 - 99|16|
-|100|17|
+| Attribute Value | Roll Bonus | EP Per Level* |
+|---|---|---|
+|0|0|20|
+|1 - 2|1|22|
+|3 - 4|2|24|
+|5 - 7|3|26|
+|8 - 10|4|28|
+|11 - 13|5|30|
+|14 - 16|6|32|
+|17 - 19|7|34|
+|20 - 23|8|36|
+|24 - 27|9|38|
+|28 - 32|10|40|
+|33 - 37|11|42|
+|38 - 44|12|44|
+|45 - 51|13|46|
+|52 - 61|14|48|
+|62 - 75|15|50|
+|76 - 99|16|52|
+|100|17|cap|
+
+* A successful roll yields 2 EP, a failed one 1 EP *(just a proposal)*
 
 ### Concerning Spells and Skills
 Due to the classlessness, spells and skills could be leared visiting trainers,
