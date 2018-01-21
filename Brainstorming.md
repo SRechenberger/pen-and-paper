@@ -78,10 +78,6 @@ Given a basic roll success propability of 1/10, thus succeeding on a roll of one
 this value could be set to 18, and be floored, thus having a maximum success propability of 19/20.
 This also implies a cap on the maximum useful value in any basic stat.
 
-Formula:
-``` Haskell
-f x = 10 - 10 * exp (-x/34.5)
-```
 | Attribute Value | Roll Bonus |
 |---|---|
 |0|0|
