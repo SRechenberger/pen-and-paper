@@ -78,6 +78,31 @@ Given a basic roll success propability of 1/10, thus succeeding on a roll of one
 this value could be set to 18, and be floored, thus having a maximum success propability of 19/20.
 This also implies a cap on the maximum useful value in any basic stat.
 
+Formula:
+``` Haskell
+f x = 10 - 10 * exp (-x/34.5)
+```
+| Attribute Value | Roll Bonus |
+|---|---|
+|0|0|
+|1 - 2|1|
+|3 - 4|2|
+|5 - 7|3|
+|8 - 10|4|
+|11 - 13|5|
+|14 - 16|6|
+|17 - 19|7|
+|20 - 23|8|
+|24 - 27|9|
+|28 - 32|10|
+|33 - 37|11|
+|38 - 44|12|
+|45 - 51|13|
+|52 - 61|14|
+|62 - 75|15|
+|76 - 99|16|
+|100|17|
+
 ### Concerning Spells and Skills
 Due to the classlessness, spells and skills could be leared visiting trainers,
 paying them money according to the caracters basic values.
